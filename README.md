@@ -28,13 +28,13 @@ Gender inequality is the social phenomenon in which people are not treated equal
 # What I have learned?
 After completing the project, I have;
 
-Mastered all the steps involved in a typical data analysis process
-Become comfortable posing questions that can be answered with a given dataset and then answering those questions
-Understood how to investigate problems in a dataset and wrangle the data into a format you can use
-Practiced communicating the results of the analysis
-Been able to use vectorized operations in NumPy and pandas to speed up data analysis code
-Become familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
-Enjoyed using Matplotlib and Seaborn to explore data and produce plots showing findings
+- Mastered all the steps involved in a typical data analysis process
+- Become comfortable posing questions that can be answered with a given dataset and then answering those questions
+- Understood how to investigate problems in a dataset and wrangle the data into a format you can use
+- Practiced communicating the results of the analysis
+- Been able to use vectorized operations in NumPy and pandas to speed up data analysis code
+- Become familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
+- Enjoyed using Matplotlib and Seaborn to explore data and produce plots showing findings
 
 
 
